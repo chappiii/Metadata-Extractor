@@ -1,0 +1,54 @@
+{
+  "papers": [
+    {
+      "paper_id": "1",
+      "doi": "https://doi.org/10.3390/life14111380",
+      "title": "A Real-Life Study in Patients Newly Diagnosed with Autoimmune Hashimoto’s Thyroiditis: Analysis of Asthenia as Admission Complaint",
+      "published_year": 2024,
+      "author_list": [
+        "Ana Valea",
+        "Mihai Costachescu",
+        "Mihaela Stanciu",
+        "Claudiu Nistor",
+        "Oana-Claudia Sima",
+        "Mara Carsote",
+        "Tiberiu Vasile Ioan Nistor",
+        "Denisa Tanasescu",
+        "Florina Ligia Popa",
+        "Mihai-Lucian Ciobica"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "purpose_of_work": "To analyze the thyroid panel in newly diagnosed Hashimoto’s Thyroiditis patients to assess the relationship between asthenia as an admission complaint and thyroid function.",
+      "keywords": [
+        "Hashimoto's thyroiditis",
+        "asthenia",
+        "thyroid function",
+        "differential diagnosis"
+      ]
+    },
+    {
+      "paper_id": "2",
+      "doi": null,
+      "title": "A Prospective Study to Evaluate the Possible Role of Cholecalciferol Supplementation on Autoimmunity in Hashimoto's Thyroiditis",
+      "published_year": 2022,
+      "author_list": [
+        "Biva Bhakat",
+        "Sumit Kumar Chakraborty",
+        "Sukdeb Das",
+        "Sahid Imam Mallick"
+      ],
+      "countries": [
+        "India"
+      ],
+      "purpose_of_work": "To assess the therapeutic role of Vitamin D in managing Hashimoto's Thyroiditis",
+      "keywords": [
+        "Randomised Controlled Trial",
+        "Negative Correlation",
+        "Hashimoto",
+        "Cholecalciferol"
+      ]
+    }
+  ]
+}
